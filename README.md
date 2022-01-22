@@ -1,8 +1,5 @@
 # Web-Portfolio
 
-Site pessoal portfolio projetos que fiz.
--> Link [Site](https://rafaelgallo.github.io/webportfolio/)
-
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
@@ -16,6 +13,9 @@ Site pessoal portfolio projetos que fiz.
 ![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ![Logo](https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-de-portfolio_114360-126.jpg)
+
+# Link
+-> Link [Site](https://rafaelgallo.github.io/webportfolio/)
 
 
 ## Stack utilizada
