@@ -20,7 +20,7 @@
 
 ## Stack utilizada
 
-**Front-end:** HTML, CSS, Java Script
+**Front-end:** HTML, CSS, JavaScript
 
 
 ## Feedback
